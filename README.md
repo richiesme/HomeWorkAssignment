@@ -1,2 +1,2 @@
-# HomeWorkAssignment
+# dataTypes
 Solutions to Assignment
