@@ -36,9 +36,13 @@ const backgroundInfo = {
   Occupation: 'singer, songwriter, performer'
 
 } // other vital information about the artist
+const teamMember = ['phantom', 'spaceship entertainment', 'Burna Boy']
+const isFavoriteSong = true
 
 console.log(songTitle) // to view title of song
 console.log(songsInOutsideAlbum) // to view all songs in OUTSIDE album
 console.log(songsInOutsideAlbum.Track1) // to view first song in the OUTSIDE album and use "TRACK1 through to TRACK12" to see first song through to last song respectively
 console.log(backgroundInfo.BirthName) // to view original birth name of artist
 console.log(backgroundInfo.Age) // to view real age of artist
+console.log(isFavoriteSong)
+console.log(teamMember)
