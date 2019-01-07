@@ -1,2 +1,2 @@
 # dataTypes
-Solutions to Assignment
+Solution to Assignment
